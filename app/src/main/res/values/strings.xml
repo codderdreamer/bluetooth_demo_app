@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="turn_on">TURN ON</string>
+    <string name="turn_off">TURN OFF</string>
+    <string name="discoverable">DİSCOVERABLE</string>
+    <string name="paired_devices">GET PAIRED DEVİCES LİST</string>
+</resources>
